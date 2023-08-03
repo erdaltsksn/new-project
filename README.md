@@ -1,6 +1,6 @@
 # {{ Project Name }}
 
-[![Security Scan](https://github.com/erdaltsksn/new-project/actions/workflows/security-scan.yml/badge.svg)](https://github.com/erdaltsksn/new-project/actions/workflows/security-scan.yml)
+[![Codacy Security Scan](https://github.com/erdaltsksn/new-project/actions/workflows/security-scan.yml/badge.svg)](https://github.com/erdaltsksn/new-project/actions/workflows/security-scan.yml)
 
 {{ Description }}
 

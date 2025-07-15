@@ -9,7 +9,12 @@
         "vscode": {
             "extensions": [
                 "redhat.vscode-yaml",
-                "DavidAnson.vscode-markdownlint"
+                "DavidAnson.vscode-markdownlint",
+                "ms-vscode.vscode-json",
+                "EditorConfig.EditorConfig",
+                "GitHub.vscode-pull-request-github",
+                "ms-vscode.hexdump",
+                "streetsidesoftware.code-spell-checker"
             ],
             "settings": {
                 // vscode

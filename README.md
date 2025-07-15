@@ -34,21 +34,21 @@ TODO
 
 TODO
 
-## 🤝 Contributing
+## 🤝🏽 Contributing
 
 If you want to contribute to this project and make it better, your help is very
 welcome.
 
-For more information, see [Contributing Guide](CONTRIBUTING.md).
+For more information, see [Contributing Guide](https://github.com/erdaltsksn/.github/blob/main/CONTRIBUTING.md).
 
 ## 🔒 Security Policy
 
 If you discover a security vulnerability within this project, please follow our
-[Security Policy](SECURITY.md).
+[Security Policy](https://github.com/erdaltsksn/.github/blob/main/SECURITY.md).
 
 ## 📜 Code of Conduct
 
-This project adheres to the Contributor Covenant [Code of Conduct](CODE_OF_CONDUCT.md).
+This project adheres to the Contributor Covenant [Code of Conduct](https://github.com/erdaltsksn/.github/blob/main/CODE_OF_CONDUCT.md).
 By participating, you are expected to uphold this code.
 
 ## ⚠️ Disclaimer

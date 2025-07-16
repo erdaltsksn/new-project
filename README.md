@@ -9,17 +9,17 @@ TODO: Add or update screenshot or remove if not applicable
 
 ## 📚 Table of Contents
 
-- [✨ Features](#-features)
-- [📋 Requirements](#-requirements)
-- [🏁 Getting Started](#-getting-started)
-- [🔧 Installation](#-installation)
-- [🔄 Updating / Upgrading](#-updating--upgrading)
-- [📝 Usage](#-usage)
-- [❓ Getting Help](#-getting-help)
-- [🤝 Contributing](#-contributing)
-- [🔒 Security Policy](#-security-policy)
-- [📜 Code of Conduct](#-code-of-conduct)
-- [⚠️ Disclaimer](#️-disclaimer)
+- ✨ [Features](#-features)
+- 📋 [Requirements](#-requirements)
+- 🏁 [Getting Started](#-getting-started)
+- 🔧 [Installation](#-installation)
+- 🔄 [Updating / Upgrading](#-updating--upgrading)
+- 📝 [Usage](#-usage)
+- ❓ [Getting Help](#-getting-help)
+- 🤝 [Contributing](#-contributing)
+- 🔒 [Security Policy](#-security-policy)
+- 📜 [Code of Conduct](#-code-of-conduct)
+- ⚠️ [Disclaimer](#️-disclaimer)
 
 ## ✨ Features
 

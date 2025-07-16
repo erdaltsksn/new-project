@@ -7,20 +7,6 @@ TODO: Write a brief project description
 TODO: Add or update screenshot or remove if not applicable
 ![Screenshot](assets/screenshot.png)
 
-## 📚 Table of Contents
-
-- ✨ [Features](#-features)
-- 📋 [Requirements](#-requirements)
-- 🏁 [Getting Started](#-getting-started)
-- 🔧 [Installation](#-installation)
-- 🔄 [Updating / Upgrading](#-updating--upgrading)
-- 📝 [Usage](#-usage)
-- ❓ [Getting Help](#-getting-help)
-- 🤝 [Contributing](#-contributing)
-- 🔒 [Security Policy](#-security-policy)
-- 📜 [Code of Conduct](#-code-of-conduct)
-- ⚠️ [Disclaimer](#️-disclaimer)
-
 ## ✨ Features
 
 - TODO: List key features of the project

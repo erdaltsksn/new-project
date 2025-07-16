@@ -1,9 +1,10 @@
-# {{ Project Name }}
+# TODO: Add Project Name
 
-[![Codacy Security Scan](https://github.com/erdaltsksn/new-project/actions/workflows/security-scan.yml/badge.svg)](https://github.com/erdaltsksn/new-project/actions/workflows/security-scan.yml)
+TODO: Add badges for build status, license, etc.
 
-{{ Description }}
+TODO: Write a brief project description
 
+TODO: Add or update screenshot or remove if not applicable
 ![Screenshot](assets/screenshot.png)
 
 ## 📚 Table of Contents
@@ -22,31 +23,31 @@
 
 ## ✨ Features
 
-- TODO
+- TODO: List key features of the project
 
 ## 📋 Requirements
 
-- [TODO](TODO)
+- [TODO: Specify system or software requirements](TODO)
 
 ## 🏁 Getting Started
 
-TODO
+TODO: Provide quick setup instructions
 
 ## 🔧 Installation
 
-TODO
+TODO: Add detailed installation steps
 
 ## 🔄 Updating / Upgrading
 
-TODO
+TODO: Explain update/upgrade process
 
 ## 📝 Usage
 
-TODO
+TODO: Describe how to use the project
 
 ## ❓ Getting Help
 
-TODO
+TODO: Provide support channels or resources
 
 ## 🤝🏽 Contributing
 

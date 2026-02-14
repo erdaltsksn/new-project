@@ -3,6 +3,7 @@
     "image": "mcr.microsoft.com/devcontainers/universal:3",
     "features": {
         // https://github.com/devcontainers/features
+        // TODO: Add project-specific dev container features here.
     },
     // Configure tool-specific properties.
     "customizations": {

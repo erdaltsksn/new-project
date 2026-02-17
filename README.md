@@ -35,6 +35,8 @@ TODO: Describe how to use the project
 
 TODO: Provide support channels or resources
 
+<!-- markdownlint-disable MD051 -->
+
 ## 🤝🏽 Contributing
 
 If you want to contribute to this project and make it better, your help is very
@@ -51,6 +53,8 @@ If you discover a security vulnerability within this project, please follow our
 
 This project adheres to the Contributor Covenant [Code of Conduct](#coc-ov-file).
 By participating, you are expected to uphold this code.
+
+<!-- markdownlint-enable MD051 -->
 
 ## ⚠️ Disclaimer
 
